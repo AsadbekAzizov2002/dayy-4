@@ -1,0 +1,30 @@
+support_container{
+    max-width: 832px;
+    margin: 0 auto;
+    margin-bottom: 42px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.support__img{
+    margin-right: 32px;
+
+}
+.support__title{
+    width: 264px;
+    color: #000;
+    text-align: center;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 130%;
+}
+
+.support__text{
+    max-width: 719px;
+    align-items: center;
+    color: #000;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}

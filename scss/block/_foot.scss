@@ -1,0 +1,27 @@
+.foot{
+    background: var(--blue, #00BAFC);
+
+}
+
+.foot__content{
+    margin-left: auto;
+    margin-right: auto;
+    align-items:center;
+    margin-bottom: 24px;
+}
+.foot__title{
+    width: 203px;
+    color: #FFF;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 130%;
+}
+.foot__text{
+    max-width: 719px;
+    color: #FFF;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
+}

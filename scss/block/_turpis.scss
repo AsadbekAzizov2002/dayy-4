@@ -1,0 +1,32 @@
+.turpis_content{
+    display: flex;
+    justify-content: space-between;
+    max-width: 832px;
+    margin-bottom: 42px;
+    margin: 0 auto;
+}
+
+.turpis_box{
+    margin-right: 32px;
+    align-items: center;
+    text-align: center;
+}
+.turpis__title{
+    width: 343px;
+    color: #000;
+    text-align: center;
+    align-items:center;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 130%;
+}
+
+.turpis__text{
+    max-width: 719px;
+    align-items: center;
+    text-align: center;
+    color: #000;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
